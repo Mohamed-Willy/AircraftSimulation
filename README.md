@@ -1,5 +1,5 @@
 Click the image below to watch a demo of the AircraftSimulation:
-[![Watch the demo](Demo/demo-thumbnail.png)](Demo/demo.mp4)
+[![Watch the demo](Demo/demo-thumbnail.png)](Demo/Demo.mp4)
 
 # AircraftSimulation
 Overview
